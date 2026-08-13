@@ -1,0 +1,14 @@
+{
+  "name": "entry-app",
+  "version": "1.0.0",
+  "description": "User entry web app connected to MongoDB (mr_doe_prod)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.2"
+  }
+}
